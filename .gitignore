@@ -20,3 +20,5 @@ Release/
 # System
 .DS_Store
 Thumbs.db
+
+.gitignore
